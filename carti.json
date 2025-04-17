@@ -1,87 +1,326 @@
 [
   {
-    "titlu": "Moromeții",
-    "autor": "Marin Preda",
-    "imagine": "imagesCarti/morometii.jpg"
+    "titlu": "Gemenele",
+    "autor": "Alexandre Dumas",
+    "imagine": "imagesCarti/ad.jpg"
   },
   {
-    "titlu": "Ion",
-    "autor": "Liviu Rebreanu",
-    "imagine": "imagesCarti/ion.jpg"
+    "titlu": "Cele doua Diane *",
+    "autor": "Alexandre Dumas",
+    "imagine": "imagesCarti/ad1.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Cele doua Diane**",
+    "autor": "Alexandre Dumas",
+    "imagine": "imagesCarti/ad2.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Sapho",
+    "autor": "Alphonse Daudet",
+    "imagine": "imagesCarti/ad3.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Raphael . Graziela",
+    "autor": "A. de Lamartine",
+    "imagine": "imagesCarti/adm.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Isabela . Simfonia Pastorala",
+    "autor": "Andre Gide",
+    "imagine": "imagesCarti/ag.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Torente **",
+    "autor": "Marie-Anne Desmarest",
+    "imagine": "imagesCarti/and.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Principesa de Cleves Adolphe",
+    "autor": "Benjamin Constant",
+    "imagine": "imagesCarti/bc.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Partea mea de comedie",
+    "autor": "B. Elvin",
+    "imagine": "imagesCarti/be.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Mayerling",
+    "autor": "Claude Anet",
+    "imagine": "imagesCarti/ca.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "O vara pierduta",
+    "autor": "Cella Delavrancea",
+    "imagine": "imagesCarti/cd.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Mica Dorrit *",
+    "autor": "Charles Dickens",
+    "imagine": "imagesCarti/cd1.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Mica Dorrit **",
+    "autor": "Charles Dickens",
+    "imagine": "imagesCarti/cd2.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Miss Romania",
+    "autor": "Cezar Petrescu",
+    "imagine": "imagesCarti/cp.jpg"
   },
   {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Ecouri in memoria timpului",
+    "autor": "Claude Spaak",
+    "imagine": "imagesCarti/cs.jpg"
   },  {
-    "titlu": "Baltagul",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
+    "titlu": "Ordinea si dezordinea",
+    "autor": "Claude Spaak",
+    "imagine": "imagesCarti/cs1.jpg"
   },
   {
+    "titlu": "Insula",
+    "autor": "Constantin Vremulet",
+    "imagine": "imagesCarti/cv.jpg"
+  },
+   {
+    "titlu": "Tabloul",
+    "autor": "Daniil Granin",
+    "imagine": "imagesCarti/dg.jpg"
+  },
+   {
+    "titlu": "Fata pierduta",
+    "autor": "D.H. Lawrence",
+    "imagine": "imagesCarti/dhl.jpg"
+  },
+   {
+    "titlu": "Rebecca",
+    "autor": "Daphne du Maurieri",
+    "imagine": "imagesCarti/dm.jpg"
+  },
+   {
+    "titlu": "Verisoara mea Rachel",
+    "autor": "Daphne du Maurier",
+    "imagine": "imagesCarti/dm1.jpg"
+  },
+   {
+    "titlu": "Golful francezului",
+    "autor": "Daphne du Maurier",
+    "imagine": "imagesCarti/dm2.jpg"
+  },
+   {
+    "titlu": "Creatie",
+    "autor": "Emile Zola",
+    "imagine": "imagesCarti/ez.jpg"
+  },
+   {
+    "titlu": "Pustiul dragostei",
+    "autor": "Francois Mauriac",
+    "imagine": "imagesCarti/fm.jpg"
+  }, {
+    "titlu": "Blandeatea Noptii",
+    "autor": "F. Scott Fitzgerald",
+    "imagine": "imagesCarti/fsf.jpg"
+  }, {
+    "titlu": "",
+    "autor": "Mihail Sadoveanu",
+    "imagine": "imagesCarti/baltagul.jpg"
+  }, {
+    "titlu": "Fabule",
+    "autor": "Grigore Alexandrescu",
+    "imagine": "imagesCarti/ga.jpg"
+  }, {
+    "titlu": "O albina se zbate in fereastra",
+    "autor": "Gilbert Cesbron",
+    "imagine": "imagesCarti/gc.jpg"
+  }, {
+    "titlu": "Salammbo",
+    "autor": "Gustave Flaubert",
+    "imagine": "imagesCarti/gf.jpg"
+  }, {
+    "titlu": "Gala Galaction",
+    "autor": "Roxana . Doctorul Taifun",
+    "imagine": "imagesCarti/gg.jpg"
+  }, {
     "titlu": "Baltagul",
     "autor": "Mihail Sadoveanu",
     "imagine": "imagesCarti/baltagul.jpg"
+  }, {
+    "titlu": "Adela",
+    "autor": "G. Ibraileanu",
+    "imagine": "imagesCarti/gi.jpg"
+  }, {
+    "titlu": "Pierre si Jean",
+    "autor": "Guy de Maupassant",
+    "imagine": "imagesCarti/gm.jpg"
+  }, {
+    "titlu": "Sandra Belloni",
+    "autor": "George Meredith",
+    "imagine": "imagesCarti/gm1.jpg"
+  }, {
+    "titlu": "Donna Alba",
+    "autor": "Gib Mihaescu",
+    "imagine": "imagesCarti/gm2.jpg"
+  }, {
+    "titlu": "Mirovici . Printesa Tarakanova",
+    "autor": "G.P. Danilevski",
+    "imagine": "imagesCarti/gpd.jpg"
+  }, {
+    "titlu": "Iliada",
+    "autor": "Homer",
+    "imagine": "imagesCarti/h.jpg"
+  }, {
+    "titlu": "Furtuna de iulie",
+    "autor": "Henry Castillou",
+    "imagine": "imagesCarti/hc.jpg"
+  }, {
+    "titlu": "Intre doua tarmuri",
+    "autor": "Henry James",
+    "imagine": "imagesCarti/hj.jpg"
+  }, {
+    "titlu": "Varsta Ingrata",
+    "autor": "Henry James",
+    "imagine": "imagesCarti/hj1.jpg"
+  }, {
+    "titlu": "Fecioarele despltite",
+    "autor": "Hortensia Papadat-Bengescu",
+    "imagine": "imagesCarti/hpb.jpg"
+  }, {
+    "titlu": "La portile Severinului",
+    "autor": "Ion Grecea",
+    "imagine": "imagesCarti/ig.jpg"
+  }, {
+    "titlu": "Vlastarul Cuvintelor",
+    "autor": "Iris Murdoch",
+    "imagine": "imagesCarti/im.jpg"
+  }, {
+    "titlu": "Foc in hanul cu tei",
+    "autor": "I. Peltz",
+    "imagine": "imagesCarti/ip.jpg"
+  }, {
+    "titlu": "Emma",
+    "autor": "Jane Austen",
+    "imagine": "imagesCarti/ja.jpg"
+  }, {
+    "titlu": "Adevarurile Catherinei",
+    "autor": "Jean Cayrol",
+    "imagine": "imagesCarti/jc.jpg"
+  }, {
+    "titlu": "Sa nu uitati ca ne iubim . Strainele corpuri",
+    "autor": "Jean Cayrol",
+    "imagine": "imagesCarti/jc1.jpg"
+  }, {
+    "titlu": "Sfarsit de capitol **",
+    "autor": "John Galsworthy",
+    "imagine": "imagesCarti/jg.jpg"
+  }, {
+    "titlu": "Sfarsit de capitol *",
+    "autor": "John Galsworthy",
+    "imagine": "imagesCarti/jg1.jpg"
+  }, {
+    "titlu": "Sfarsit de capitol ***",
+    "autor": "John Galsworthy",
+    "imagine": "imagesCarti/jg2.jpg"
+  }, {
+    "titlu": "Viata furata",
+    "autor": "K.J. Benes",
+    "imagine": "imagesCarti/kjb.jpg"
+  }, {
+    "titlu": "Alexandra si Infernul",
+    "autor": "Laurentiu Fulga",
+    "imagine": "imagesCarti/lf.jpg"
+  }, {
+    "titlu": "Daphne Adeane",
+    "autor": "Maurice Baring",
+    "imagine": "imagesCarti/mb.jpg"
+  }, {
+    "titlu": "Leaganul pisicii",
+    "autor": "Maurice Baring",
+    "imagine": "imagesCarti/mb1.jpg"
+  }, {
+    "titlu": "tacerile sau viata unei femei",
+    "autor": "Marie Chaix",
+    "imagine": "imagesCarti/mc.jpg"
+  }, {
+    "titlu": "Poezii",
+    "autor": "Mihai Eminescu",
+    "imagine": "imagesCarti/me.jpg"
+  }, {
+    "titlu": "Magdalena",
+    "autor": "Mihai Giugariu",
+    "imagine": "imagesCarti/mg.jpg"
+  }, {
+    "titlu": "Cele doua orase",
+    "autor": "Mario Soldati",
+    "imagine": "imagesCarti/ms.jpg"
+  }, {
+    "titlu": "Menestrelii regelui Ludovic",
+    "autor": "Ovidiu Constantinescu",
+    "imagine": "imagesCarti/oc.jpg"
+  }, {
+    "titlu": "Iubim *",
+    "autor": "Octav Dessila",
+    "imagine": "imagesCarti/od.jpg"
+  }, {
+    "titlu": "Iubim ***",
+    "autor": "Octav Dessila",
+    "imagine": "imagesCarti/od1.jpg"
+  }, {
+    "titlu": "Copiii Domnului",
+    "autor": "Petru Popescu",
+    "imagine": "imagesCarti/pp.jpg"
+  }, {
+    "titlu": "El *",
+    "autor": "Liviu Rebreanu",
+    "imagine": "imagesCarti/rebreanuEl1.png"
+  }, {
+    "titlu": "El**",
+    "autor": "Liviu Rebreanu",
+    "imagine": "imagesCarti/rebreanuEl2.jpg.jpg"
+  }, {
+    "titlu": "Matei Iliescu",
+    "autor": "Radu Petrescu",
+    "imagine": "imagesCarti/rp.jpg"
+  }, {
+    "titlu": "Armance",
+    "autor": "Stendhal",
+    "imagine": "imagesCarti/s.jpg"
+  }, {
+    "titlu": "Surorile Veniamin",
+    "autor": "Sergiu Dan",
+    "imagine": "imagesCarti/sd.jpg"
+  }, {
+    "titlu": "Suflete zbuciumate",
+    "autor": "Stefan Zweig",
+    "imagine": "imagesCarti/sz.jpg"
+  }, {
+    "titlu": "Pacatul . Cecile",
+    "autor": "Theodor Fontane",
+    "imagine": "imagesCarti/tf.jpg"
+  }, {
+    "titlu": "Doi ochi albastri",
+    "autor": "Thomas Hardy",
+    "imagine": "imagesCarti/th.jpg"
+  }, {
+    "titlu": "Doine",
+    "autor": "Vasile Alexandri",
+    "imagine": "imagesCarti/va.jpg"
+  }, {
+    "titlu": "Printre portocali",
+    "autor": "Vicente Blasco Ibanez",
+    "imagine": "imagesCarti/vbi.jpg"
+  }, {
+    "titlu": "Julia",
+    "autor": "W. Somerset Maugham",
+    "imagine": "imagesCarti/wsm.jpg"
+  }, {
+    "titlu": "Infacarata Egle",
+    "autor": "Yves Gandon",
+    "imagine": "imagesCarti/yg.jpg"
+  }, {
+    "titlu": "Iedera",
+    "autor": "Yves Navarre",
+    "imagine": "imagesCarti/yn.jpg"
   }
 
 ]
