@@ -4,9 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Biblioteca Online</title>
-    <link rel="stylesheet" href="styles/carti.css">
+    <link rel="stylesheet" href="styles/autori.css">
     <link rel="stylesheet" href="styles/index.css">
-</head>
+    <link rel="stylesheet" href="styles/autor.css">
 <body>
     <header>
         <img src="images/librarybanner.png" alt="banner" class="banner">
@@ -29,18 +29,13 @@
     <section id="home">
         <h2>Bine ați venit la Biblioteca Online!</h2>
         <p>Explorați colecția noastră de cărți și folosiți formularele pentru a solicita sau a returna cărți cu ușurință.</p>
-       
-      
-    
+        
     </section>
 
-    <main>
-        <div id="carti-container" class="grid-carti">
-            
-        </div>
-    </main>
-    
-    <div id="donatieModal" class="modal">
+        <h1 id="titlu-autor" class="carti-autor">Cărți de autor</h1>
+        <div id="carti-autor" class="card-container"></div>  
+
+     <div id="donatieModal" class="modal">
         <div class="modal-content">
           <span class="close" id="closeModal">&times;</span>
           <h2>Formular donație</h2>
@@ -59,18 +54,14 @@
         </div>
       </div>
     
-    
-    
-          
-    
 
     
     <footer>
         <p>&copy; Geacomino .</p>
     </footer>
 
-    <script src="script/carti.js"></script>
     <script src="script/doneaza.js"></script>
+    <script src="script/autor.js"></script>
 
 </body>
 </html>

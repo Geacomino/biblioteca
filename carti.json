@@ -2,37 +2,44 @@
   {
     "titlu": "Gemenele",
     "autor": "Alexandre Dumas",
-    "imagine": "imagesCarti/ad.jpg"
+    "imagine": "imagesCarti/ad.jpg",
+    "categorie": "beletristica"
   },
   {
     "titlu": "Cele doua Diane *",
     "autor": "Alexandre Dumas",
-    "imagine": "imagesCarti/ad1.jpg"
+    "imagine": "imagesCarti/ad1.jpg",
+    "categorie": "beletristica"
   },
   {
     "titlu": "Cele doua Diane**",
     "autor": "Alexandre Dumas",
-    "imagine": "imagesCarti/ad2.jpg"
+    "imagine": "imagesCarti/ad2.jpg",
+    "categorie": "beletristica"
   },
   {
     "titlu": "Sapho",
     "autor": "Alphonse Daudet",
-    "imagine": "imagesCarti/ad3.jpg"
+    "imagine": "imagesCarti/ad3.jpg",
+    "categorie": "beletristica"
   },
   {
     "titlu": "Raphael . Graziela",
     "autor": "A. de Lamartine",
-    "imagine": "imagesCarti/adm.jpg"
+    "imagine": "imagesCarti/adm.jpg",
+    "categorie": "beletristica"
   },
   {
     "titlu": "Isabela . Simfonia Pastorala",
     "autor": "Andre Gide",
-    "imagine": "imagesCarti/ag.jpg"
+    "imagine": "imagesCarti/ag.jpg",
+    "categorie": "beletristica"
   },
   {
     "titlu": "Torente **",
     "autor": "Marie-Anne Desmarest",
-    "imagine": "imagesCarti/and.jpg"
+    "imagine": "imagesCarti/and.jpg",
+    "categorie": "beletristica"
   },
   {
     "titlu": "Principesa de Cleves Adolphe",
@@ -121,10 +128,6 @@
     "titlu": "Blandeatea Noptii",
     "autor": "F. Scott Fitzgerald",
     "imagine": "imagesCarti/fsf.jpg"
-  }, {
-    "titlu": "",
-    "autor": "Mihail Sadoveanu",
-    "imagine": "imagesCarti/baltagul.jpg"
   }, {
     "titlu": "Fabule",
     "autor": "Grigore Alexandrescu",
@@ -276,7 +279,7 @@
   }, {
     "titlu": "El**",
     "autor": "Liviu Rebreanu",
-    "imagine": "imagesCarti/rebreanuEl2.jpg.jpg"
+    "imagine": "imagesCarti/rebreanuEl2.jpg"
   }, {
     "titlu": "Matei Iliescu",
     "autor": "Radu Petrescu",

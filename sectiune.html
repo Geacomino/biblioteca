@@ -21,6 +21,10 @@
                 <li><a href="index.html#returnare">Returnare Carte</a></li>
             </ul>
         </nav>
+         
+        <a href="#" class="btn-donatie" id="openModal">Donează o carte</a>
+
+
     </header>
 
     <section id="home">
@@ -29,79 +33,98 @@
         
         <div class="card-container">
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=beletristica">
                     <img src="images/books.jpg" alt="Beletristica" class="imagcarti">
                     <h3>Beletristica</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=istorie">
                     <img src="images/books.jpg" alt="Istorie" class="imagcarti">
                     <h3>Istorie</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=filozofie">
                     <img src="images/books.jpg" alt="Filozofie" class="imagcarti">
                     <h3>Filozofie</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=stiinta-tehnica">
                     <img src="images/books.jpg" alt="Stiinta si Tehnica" class="imagcarti">
                     <h3>Stiinta si Tehnica</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=educatie">
                     <img src="images/books.jpg" alt="Educatie" class="imagcarti">
                     <h3>Educatie</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=psihologie">
                     <img src="images/books.jpg" alt="Psihologie" class="imagcarti">
                     <h3>Psihologie</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=arta">
                     <img src="images/books.jpg" alt="Arta" class="imagcarti">
                     <h3>Arta</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=informatica">
                     <img src="images/books.jpg" alt="Informatica" class="imagcarti">
                     <h3>Informatica</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=economie-drept">
                     <img src="images/books.jpg" alt="Economie Drept" class="imagcarti">
                     <h3>Economie si Drept</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=limbi-straine">
                     <img src="images/books.jpg" alt="Limbi Straine" class="imagcarti">
                     <h3>Limbi Straine</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=sociologie">
                     <img src="images/books.jpg" alt="Sociologie" class="imagcarti">
                     <h3>Sociologie</h3>
                 </a>
             </div>
             <div class="card">
-                <a href="#">
+                <a href="categorie.html?cat=religie">
                     <img src="images/books.jpg" alt="Religie" class="imagcarti">
                     <h3>Religie</h3>
                 </a>
             </div>
         </div>
     </section>
+
+     <div id="donatieModal" class="modal">
+        <div class="modal-content">
+          <span class="close" id="closeModal">&times;</span>
+          <h2>Formular donație</h2>
+          <form action="https://formspree.io/f/xkgjkzpd" method="post">
+            <label for="nume">Nume:</label>
+            <input type="text" name="nume" required>       
+      
+            <label for="telefon">Telefon:</label>
+            <input type="tel" name="telefon" required>
+      
+            <label for="detalii">Detalii:</label>
+            <textarea name="detalii" rows="3"></textarea>
+      
+            <input type="submit" value="Trimite donația">
+          </form>
+        </div>
+      </div>
     
 
     
@@ -109,5 +132,8 @@
     <footer>
         <p>&copy; Geacomino .</p>
     </footer>
+
+    <script src="script/doneaza.js"></script>
+
 </body>
 </html></html>
