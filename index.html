@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biblioteca Online</title>
+    <link rel="stylesheet" href="styles/index.css">
+    <link rel="stylesheet" href="styles/cookies.css">
+</head>
+<body>
+    <header>
+        
+        <img src="images/librarybanner.png" alt="banner" class="banner">
+        <h1>Biblioteca Online Albesti-Paleologu</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Acasă</a></li>
+                <li><a href="sectiune.html">Sectiune</a></li>
+                <li><a href="autori.html">Autori</a></li>
+                <li><a href="carti.html">Carti</a></li>
+                <li><a href="#solicitare">Solicitare Carte</a></li>
+                <li><a href="#returnare">Returnare Carte</a></li>
+                
+            </ul>
+        </nav>
+        
+        <a href="#" class="btn-donatie" id="openModal">Donează o carte</a>
+
+
+        
+    </header>
+
+    <section id="home">
+        <h2>Bine ați venit la Biblioteca Online Albesti-Paleologu</h2>
+        <p>Explorați colecția noastră de cărți și folosiți formularele pentru a solicita sau a returna cărți cu ușurință.</p>
+        
+        <div class="card-container">
+            <div class="card">
+                <a href="sectiune.html">
+                    <img src="images/sectiune.png" alt="Secțiune" class="imagcarti">
+                    <h3>Secțiune</h3>
+                </a>
+            </div>
+            <div class="card">
+                <a href="autori.html">
+                    <img src="images/autori.png" alt="Autori" class="imagcarti">
+                    <h3>Autori</h3>
+                </a>
+            </div>
+            <div class="card">
+                <a href="carti.html">
+                    <img src="images/books.jpg" alt="Cărți" class="imagcarti">
+                    <h3>Cărți</h3>
+                </a>
+            </div>
+        </div>
+    </section>
+    
+
+    <section id="solicitare">
+        <h2 class="textform">Solicitare Carte</h2>
+        <form action="https://formspree.io/f/xkgjkzpd" method="post">
+            <label for="name">Nume solicitant:</label>
+            <input type="text" class="input" name="name" required><br>
+    
+            <label for="autor">Autor si nume carte:</label>
+            <input type="text" class="input" name="autor" required><br>
+    
+            <label for="phone">Numar Telefon:</label>
+            <input type="text" class="input" name="phone" required><br>
+    
+            <label for="delivery">Metoda de livrare:</label>
+            <select id="delivery" name="delivery">
+                <option value="Ridicare Personala">Ridicare Personala</option>
+                <option value="Livrare la domiciliu">Livrare la Domiciliu</option>
+                
+                
+            </select><br>
+    
+            <label for="address">Adresa de livrare:</label>
+            <input type="text" class="input" name="address" required><br>
+    
+            <input class="trimite" type="submit" value="Trimite Cererea">
+        </form>
+    </section>
+
+    <section id="returnare">
+        <h2 class="textform">Returnare Carte</h2>
+        <form action="https://formspree.io/f/xkgjkzpd" method="post">
+            <label for="name_return">Nume solicitant:</label>
+            <input class="input" type="text"  name="name"  required><br>
+
+            <label for="autor_return">Autor și nume carte:</label>
+            <input class="input" type="text"  name="autor" required><br>
+
+            <label for="telefon_return">Număr Telefon:</label>
+            <input class="input" type="tel"  name="telefon" required><br>
+
+            <label for="metoda_return">Metoda de returnare:</label>
+            <select  name="metoda">
+                <option value="Livrare la Domiciliu">Ridicare de la Domiciliu</option>
+                <option value="Ridicare Personala">Predare Personala</option>
+                
+            </select><br>
+            
+
+            <input class="trimite" type="submit" value="Trimite Cererea">
+        </form>
+    </section>
+
+    <div id="donatieModal" class="modal">
+        <div class="modal-content">
+          <span class="close" id="closeModal">&times;</span>
+          <h2>Formular donație</h2>
+          <form action="https://formspree.io/f/xkgjkzpd" method="post">
+            <label for="nume">Nume:</label>
+            <input type="text" name="nume" required>       
+      
+            <label for="telefon">Telefon:</label>
+            <input type="tel" name="telefon" required>
+      
+            <label for="detalii">Detalii:</label>
+            <textarea name="detalii" rows="3"></textarea>
+      
+            <input type="submit" value="Trimite donația">
+          </form>
+        </div>
+      </div>
+      
+    
+      
+
+    <footer>
+        <p>&copy; Geacomino .</p>
+    </footer>
+    
+    <div id="cookie-banner" class="cookie-banner">
+        <p>Folosim cookies pentru a îmbunătăți experiența pe site. Ești de acord?</p>
+        <button id="acceptCookies">Acceptă</button>
+        <button id="refuseCookies">Refuză</button>
+      </div>
+
+      <script src="script/doneaza.js"></script>
+      <script src="script/cookies.js"></script>
+      <script src="script/numecartesiautor.js"></script>
+      
+
+</body>
+</html>
